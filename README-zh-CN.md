@@ -115,8 +115,8 @@
 
 - [x] [Data Analytics，Data Analysis，数据挖掘，数据科学，机器学习，大数据的区别是什么？](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 - [x] [学习如何去学习](https://www.coursera.org/learn/learning-how-to-learn)
-- [ ] [不要斩断锁链](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
-- [ ] [如何自学](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [x] [不要斩断锁链](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [x] [如何自学](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 
 ## 每日计划
 
